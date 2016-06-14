@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Poshrite</string>
+
+
+    <!--Fonts files Name-->
+    <string name="font_gothic_normal">GOTHIC_NORMAL.TTF</string>
+    <string name="font_gothic_bold">GOTHIC_BOLD.TTF</string>
+    <string name="font_gothic_italic_bold">GOTHIC_ITALIC_BOLD.TTF</string>
+    <string name="font_gothic_italic_normal">GOTHIC_ITALIC_NORMAL.TTF</string>
+    <string name="font_jeena_sue">JEENA_SUE.ttf</string>
+
+    <string name="font_name_fontawesome">fontawesome</string>
+    <string name="font_name_source_sans_pro">SourceSansPro</string>
+    <!--Fonts files Name-->
+    <string name="dummy_text_font">The quick brown fox jumps over the lazy dog</string>
+
+    <string name="posh">POSH</string>
+    <string name="rite">RITE</string>
+    <string name="choose">CHOOSE</string>
+    <string name="choose_who_you_are">WHO YOU ARE?</string>
+    <string name="beauty_enthusiaist">I AM A BEAUTY ENTHUSIAST</string>
+    <string name="beauty_professional">I AM A BEAUTY PROFESSIONAL</string>
+
+    <string name="are_you_ready">Are you ready to be stylist</string>
+    <string name="lets_get_started">Let\'s get started!</string>
+
+    <string name="welcome_to">WELCOME TO</string>
+
+</resources>

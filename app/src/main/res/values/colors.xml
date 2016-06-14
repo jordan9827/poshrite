@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DA74AE</color>
+    <color name="colorPrimaryDark">#9DD8DA</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--APPLICATION COLORS -->
+
+
+    <color name="pink">#DA74AE</color>
+    <color name="pale_turquoise">#9DD8DA</color>
+    <color name="light_gray">#999999</color>
+    <color name="medium_gray">#666666</color>
+    <color name="dark_gray">#333333</color>
+
+
+    <color name="sign_up_background">#F5F5F5</color>
+    <color name="border_sign_up">#D8D8D8</color>
+    <color name="white">#ffffff</color>
+
+    <color name="login_background">#F5F5F5</color>
+
+
+
+
+
+</resources>
